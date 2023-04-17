@@ -29,6 +29,13 @@ Here's a general outline of the steps involved in this process:
 
 Of course, there are many variations and refinements that can be made to this basic approach. For example, one could incorporate other features such as technical indicators or social media sentiment scores, or use more sophisticated architectures such as attention-based models or transformer networks. Additionally, it's important to carefully consider the limitations and biases of the data and model, and to validate the predictions using real-world experiments.
 
+# LSTM
+LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN). In fact, LSTM is a specialized RNN architecture that is designed to better handle the vanishing gradient problem that occurs in traditional RNNs. So, LSTM is a variant of RNN that is widely used in various applications, including time-series forecasting and natural language processing.
+
+# Conclusion
+several other architecture also available which also can try but i use M TO M because for the simulation purpose i want same features as a output which i have feed to the rnn as a input 
+
+
 
 
 
